@@ -7,7 +7,7 @@ This platform transforms raw operational data into **strategic decision intellig
 ---
 
 ## 🔗 Live App
-[https://intansari-food-delivery-intelligence.streamlit.app/](https://intansari-food-delivery-intelligence-system.streamlit.app/)
+[https://intansari-food-delivery-intelligence-system.streamlit.app/](https://intansari-food-delivery-intelligence-system.streamlit.app/)
 
 ---
 
